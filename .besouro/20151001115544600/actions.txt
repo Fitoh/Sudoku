@@ -439,3 +439,19 @@ EditAction 1443696467342 SudokuVerifier.java 2225 1 20 0
 UnitTestCaseAction 1443696469840 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443696469841 TestSudokuVerifier FAIL
 EditAction 1443696499357 SudokuVerifier.java 2225 1 20 0
+UnitTestCaseAction 1443696500363 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443696500363 TestSudokuVerifier OK
+RefactoringAction 1443696579404 SudokuVerifier.java ADD peräkkäin ei FIELD
+RefactoringAction 1443696579405 SudokuVerifier.java ADD saa olla FIELD
+RefactoringAction 1443696579406 SudokuVerifier.java ADD samoja joka FIELD
+RefactoringAction 1443696579406 SudokuVerifier.java ADD yhdeksäs ei/2 FIELD
+RefactoringAction 1443696579406 SudokuVerifier.java ADD saa olla/2 FIELD
+RefactoringAction 1443696579407 SudokuVerifier.java ADD void peräkkäin() METHOD
+RefactoringAction 1443696586480 SudokuVerifier.java ADD joka yhdeksäs FIELD
+RefactoringAction 1443696586480 SudokuVerifier.java ADD ei saa FIELD
+RefactoringAction 1443696586481 SudokuVerifier.java ADD olla samoja FIELD
+RefactoringAction 1443696588010 SudokuVerifier.java REMOVE saa FIELD
+RefactoringAction 1443696588011 SudokuVerifier.java REMOVE yhdeksäs FIELD
+RefactoringAction 1443696588011 SudokuVerifier.java REMOVE samoja FIELD
+RefactoringAction 1443696591561 SudokuVerifier.java REMOVE peräkkäin() METHOD
+EditAction 1443696640955 SudokuVerifier.java 2410 1 20 0

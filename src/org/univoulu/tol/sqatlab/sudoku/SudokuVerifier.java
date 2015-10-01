@@ -7,6 +7,10 @@ import java.util.Set;
 
 public class SudokuVerifier {
 	
+	// rule 3: 9 per‰kk‰in ei saa olla samoja
+	// rule 4: joka yhdeks‰s ei saa olla samoja
+	// rule 2: 3 per‰kk‰in + 3 per‰kk‰in + 3 per‰kk‰in (6 j‰‰ v‰liin aina) ei saa olla samoja
+	
 
 	static boolean hasNegativeValues = false;
 	static boolean hasRepeatingValuesInGrid = false;
