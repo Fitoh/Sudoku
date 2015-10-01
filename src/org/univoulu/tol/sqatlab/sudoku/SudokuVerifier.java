@@ -16,7 +16,7 @@ public class SudokuVerifier {
 			hasNegativeValues = true;
 		}
 		ArrayList<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split(",")));
-		System.out.println(myList("1")); 
+		System.out.println(myList["1"]); 
 		
 		if (hasNegativeValues == true){
 			return -1;
