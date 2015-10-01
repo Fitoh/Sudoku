@@ -1,6 +1,10 @@
 package org.univoulu.tol.sqatlab.sudoku;
 import static java.lang.System.out;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class SudokuVerifier {
 	
 
@@ -13,8 +17,8 @@ public class SudokuVerifier {
 		if (candidateSolution.contains("-")){
 			hasNegativeValues = true;
 		}
-		
-		System.out.println(candidateSolution[1]); 
+		List<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split(",")));
+		System.out.println(myList[1]); 
 		
 		if (hasNegativeValues == true){
 			return -1;

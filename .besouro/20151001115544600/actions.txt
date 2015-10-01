@@ -277,3 +277,17 @@ UnitTestCaseAction 1443693620442 TestSudokuVerifier.java OK
 UnitTestSessionAction 1443693620443 TestSudokuVerifier OK
 EditAction 1443693625297 TestSudokuVerifier.java 393 1 4 0
 EditAction 1443693817553 SudokuVerifier.java 778 1 7 0
+CompilationAction 1443693817813 SudokuVerifier.java
+RefactoringAction 1443694127378 SudokuVerifier.java ADD import java.util.Arrays IMPORT
+CompilationAction 1443694152324 SudokuVerifier.java
+CompilationAction 1443694152799 SudokuVerifier.java
+CompilationAction 1443694152800 SudokuVerifier.java
+CompilationAction 1443694152800 SudokuVerifier.java
+RefactoringAction 1443694161702 SudokuVerifier.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1443694172076 SudokuVerifier.java ADD import java.util.List IMPORT
+CompilationAction 1443694185044 SudokuVerifier.java
+CompilationAction 1443694185045 SudokuVerifier.java
+CompilationAction 1443694185045 SudokuVerifier.java
+UnitTestCaseAction 1443694186649 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443694186650 TestSudokuVerifier OK
+EditAction 1443694196041 SudokuVerifier.java 937 1 8 0
