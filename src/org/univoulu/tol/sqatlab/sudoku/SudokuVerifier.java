@@ -32,6 +32,6 @@ public class SudokuVerifier {
 		if (hasRepeatingValuesInColumn == true){
 			return -4;
 		}
-		return 1 //something went wrong
+		return 1; //something went wrong
 	}
 }
