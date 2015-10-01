@@ -1,13 +1,33 @@
 package org.univoulu.tol.sqatlab.sudoku;
 
 public class SudokuVerifier {
-
+	
+	boolean isCorrect = false;
+	boolean hasNegativeValues = false;
+	boolean hasRepeatingValuesInGrid = false;
+	boolean hasRepeatingValuesInRow = false;
+	boolean hasRepeatingValuesInColumn = false;
+	
 	public int verify(String candidateSolution) {
-		// returns 1 if the candidate solution is correct
-		return 0;
-		return -1;
-		return -2;
-		return -3;
-		return -4;
+	
+		if (isCorrect == true){
+			return 0;
+		}
+		
+		if (hasNegativeValues == true){
+			return -1;
+		}
+		
+		if (hasRepeatingValuesInGrid == true){
+			return -2;
+		}
+		
+		if (hasRepeatingValuesInRow == true){
+			return -3;
+		}
+		
+		if (hasRepeatingValuesInColumn == true){
+			return -4;
+		}
 	}
 }

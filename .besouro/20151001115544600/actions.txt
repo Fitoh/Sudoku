@@ -1,3 +1,35 @@
 FileOpenedAction 1443689744938 TestSudokuVerifier.java 216 1 1 0
 FileOpenedAction 1443689807792 SudokuVerifier.java 198 1 1 0
 EditAction 1443689843138 SudokuVerifier.java 254 1 5 0
+CompilationAction 1443689843448 SudokuVerifier.java
+CompilationAction 1443689868869 SudokuVerifier.java
+CompilationAction 1443689869027 SudokuVerifier.java
+CompilationAction 1443689890403 SudokuVerifier.java
+CompilationAction 1443689890562 SudokuVerifier.java
+RefactoringAction 1443689904530 SudokuVerifier.java ADD int isCorrect FIELD
+CompilationAction 1443689908043 SudokuVerifier.java
+CompilationAction 1443689908174 SudokuVerifier.java
+CompilationAction 1443689908175 SudokuVerifier.java
+CompilationAction 1443689917421 SudokuVerifier.java
+CompilationAction 1443689917421 SudokuVerifier.java
+CompilationAction 1443689917578 SudokuVerifier.java
+RefactoringAction 1443689945613 SudokuVerifier.java ADD boolean isCorrect/2 FIELD
+RefactoringAction 1443689951627 SudokuVerifier.java RENAME isCorrect/2=>boolean hasNegativeValues FIELD
+CompilationAction 1443689953131 SudokuVerifier.java
+CompilationAction 1443689953288 SudokuVerifier.java
+RefactoringAction 1443689992377 SudokuVerifier.java ADD boolean hasNegativeValues/2 FIELD
+RefactoringAction 1443689995906 SudokuVerifier.java RENAME hasNegativeValues/2=>boolean hasNegaValues FIELD
+RefactoringAction 1443689996920 SudokuVerifier.java RENAME hasNegaValues=>boolean hasValues FIELD
+RefactoringAction 1443689998934 SudokuVerifier.java RENAME hasValues=>boolean hasRepeatingValues FIELD
+RefactoringAction 1443690038050 SudokuVerifier.java RENAME hasRepeatingValues=>boolean hasRepeatingValuesInGrid FIELD
+RefactoringAction 1443690128081 SudokuVerifier.java ADD boolean hasRepeatingValuesInGrid/2 FIELD
+RefactoringAction 1443690131095 SudokuVerifier.java RENAME hasRepeatingValuesInGrid/2=>boolean hasRepeatingValuesInG FIELD
+RefactoringAction 1443690132109 SudokuVerifier.java RENAME hasRepeatingValuesInG=>boolean hasRepeatingValuesIn FIELD
+RefactoringAction 1443690161137 SudokuVerifier.java RENAME hasRepeatingValuesIn=>boolean hasRepeatingValuesInR FIELD
+RefactoringAction 1443690162150 SudokuVerifier.java RENAME hasRepeatingValuesInR=>boolean hasRepeatingValuesInRow FIELD
+RefactoringAction 1443690165664 SudokuVerifier.java ADD boolean hasRepeatingValuesInRow/2 FIELD
+RefactoringAction 1443690168688 SudokuVerifier.java RENAME hasRepeatingValuesInRow/2=>boolean hasRepeatingValuesIn FIELD
+RefactoringAction 1443690170703 SudokuVerifier.java RENAME hasRepeatingValuesIn=>boolean hasRepeatingValuesInColumn FIELD
+CompilationAction 1443690201290 SudokuVerifier.java
+CompilationAction 1443690201425 SudokuVerifier.java
+EditAction 1443690212303 SudokuVerifier.java 642 1 5 0
