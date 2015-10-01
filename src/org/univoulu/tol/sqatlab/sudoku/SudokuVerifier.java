@@ -26,7 +26,7 @@ public class SudokuVerifier {
 			//System.out.println("TROLOLO");
 		}
 		System.out.println(myList);
-		System.out.println(myList.subList(0, 1));
+		System.out.println(myList.subList(0, 2));
 		
 		if (hasNegativeValues == true){
 			return -1;
