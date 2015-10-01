@@ -206,3 +206,21 @@ CompilationAction 1443692524609 SudokuVerifier.java
 CompilationAction 1443692524765 SudokuVerifier.java
 RefactoringAction 1443692544808 SudokuVerifier.java RENAME verify()=>int verify(String) METHOD
 EditAction 1443692560195 TestSudokuVerifier.java 373 1 0 0
+CompilationAction 1443692560440 TestSudokuVerifier.java
+CompilationAction 1443692560441 TestSudokuVerifier.java
+CompilationAction 1443692574960 TestSudokuVerifier.java
+CompilationAction 1443692574961 TestSudokuVerifier.java
+CompilationAction 1443692575121 TestSudokuVerifier.java
+RefactoringAction 1443692582751 SudokuVerifier.java RENAME verify(String)=>int verify() METHOD
+CompilationAction 1443692626164 SudokuVerifier.java
+CompilationAction 1443692626289 SudokuVerifier.java
+CompilationAction 1443692626290 SudokuVerifier.java
+CompilationAction 1443692626290 SudokuVerifier.java
+RefactoringAction 1443692682295 SudokuVerifier.java RENAME verify()=>int verify(String) METHOD
+CompilationAction 1443692711960 TestSudokuVerifier.java
+CompilationAction 1443692712116 TestSudokuVerifier.java
+CompilationAction 1443692769040 TestSudokuVerifier.java
+CompilationAction 1443692769200 TestSudokuVerifier.java
+CompilationAction 1443692801383 SudokuVerifier.java
+CompilationAction 1443692801550 TestSudokuVerifier.java
+EditAction 1443692847830 SudokuVerifier.java 846 1 7 0

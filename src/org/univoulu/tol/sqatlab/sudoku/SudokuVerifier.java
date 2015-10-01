@@ -1,17 +1,16 @@
 package org.univoulu.tol.sqatlab.sudoku;
 import static java.lang.System.out;
 
-
 public class SudokuVerifier {
 	
-	boolean isCorrect = false;
-	boolean hasNegativeValues = false;
-	boolean hasRepeatingValuesInGrid = false;
-	boolean hasRepeatingValuesInRow = false;
-	boolean hasRepeatingValuesInColumn = false;
-	public int verify() {
+	static boolean isCorrect = false;
+	static boolean hasNegativeValues = false;
+	static boolean hasRepeatingValuesInGrid = false;
+	static boolean hasRepeatingValuesInRow = false;
+	static boolean hasRepeatingValuesInColumn = false;
+	public static int verify(String candidateSolution) {
 	
-		String[] ary = candidateSolution.split("");
+		//String[] ary = candidateSolution.split("");
 		out.println("print something");
 		
 		
