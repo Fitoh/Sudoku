@@ -47,3 +47,6 @@ EditAction 1443690447621 SudokuVerifier.java 834 1 6 0
 EditAction 1443690456639 SudokuVerifier.java 824 1 6 0
 RefactoringAction 1443690460093 SudokuVerifier.java REMOVE returnValue FIELD
 EditAction 1443690473047 SudokuVerifier.java 796 1 6 0
+CompilationAction 1443690473309 SudokuVerifier.java
+CompilationAction 1443690500515 SudokuVerifier.java
+EditAction 1443690540190 SudokuVerifier.java 690 1 0 0

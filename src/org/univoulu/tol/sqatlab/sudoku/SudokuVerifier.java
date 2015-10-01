@@ -11,30 +11,27 @@ public class SudokuVerifier {
 	
 		
 		
+		
+		
 		if (isCorrect == true){
-			returnValue = 0;
 			return 0;
 		}
 		
 		if (hasNegativeValues == true){
-			returnValue = -1;
 			return -1;
 		}
 		
 		if (hasRepeatingValuesInGrid == true){
-			returnValue = -2;
-			return returnValue;
+			return -2;
 		}
 		
 		if (hasRepeatingValuesInRow == true){
-			returnValue = -3;
-			return returnValue;
+			return -3;
 		}
 		
 		if (hasRepeatingValuesInColumn == true){
-			returnValue = -4;
-			return returnValue;
+			return -4;
 		}
-		return 0;
+		return 1 //something went wrong
 	}
 }
