@@ -22,12 +22,11 @@ public class SudokuVerifier {
 		}
 		ArrayList<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split("")));
 		myList.remove(0);
-		//if (myList.subList(1, 5).containsAll(numbersSet) == true){
+		if (myList.subList(1, 5).containsAll(numbersSet) == true){
 			//System.out.println("TROLOLO");
-		//}
+		}
 		System.out.println(myList);
 		System.out.println(myList.subList(0, 5));
-		//System.out.println(myList[1]); 
 		
 		if (hasNegativeValues == true){
 			return -1;
