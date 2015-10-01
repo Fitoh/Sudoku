@@ -146,3 +146,24 @@ RefactoringAction 1443691909490 SudokuGame.java ADD SudokuGame.java CLASS
 FileOpenedAction 1443691909616 SudokuGame.java 76 0 0 0
 RefactoringAction 1443691914620 SudokuGame.java ADD static void main(String METHOD
 EditAction 1443691926372 SudokuGame.java 259 1 0 0
+CompilationAction 1443691926570 SudokuGame.java
+CompilationAction 1443691926571 SudokuGame.java
+RefactoringAction 1443691983522 SudokuGame.java ADD import java.lang.System.out IMPORT
+RefactoringAction 1443691992040 SudokuGame.java ADD import Sudoku IMPORT
+RefactoringAction 1443691994548 SudokuGame.java RENAME import Sudoku=>import SudokuVerifiwer IMPORT
+RefactoringAction 1443691997056 SudokuGame.java RENAME import SudokuVerifiwer=>import SudokuVerifier.java IMPORT
+RefactoringAction 1443692014575 SudokuGame.java ADD import SudokuVerifier.java IMPORT
+CompilationAction 1443692015574 SudokuGame.java
+CompilationAction 1443692015574 SudokuGame.java
+CompilationAction 1443692015723 SudokuGame.java
+CompilationAction 1443692015723 SudokuGame.java
+CompilationAction 1443692015724 SudokuGame.java
+CompilationAction 1443692015724 SudokuGame.java
+CompilationAction 1443692036380 SudokuGame.java
+CompilationAction 1443692036380 SudokuGame.java
+CompilationAction 1443692036381 SudokuGame.java
+CompilationAction 1443692036538 SudokuGame.java
+CompilationAction 1443692036538 SudokuGame.java
+CompilationAction 1443692036539 SudokuGame.java
+RefactoringAction 1443692233897 SudokuGame.java REMOVE SudokuGame.java CLASS
+EditAction 1443692286206 TestSudokuVerifier.java 349 1 2 0
