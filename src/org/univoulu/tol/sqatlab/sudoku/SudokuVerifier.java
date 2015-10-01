@@ -11,6 +11,7 @@ public class SudokuVerifier {
 	// rule 4: joka yhdeks‰s ei saa olla samoja
 	// rule 2: 3 per‰kk‰in + 3 per‰kk‰in + 3 per‰kk‰in (6 j‰‰ v‰liin aina) ei saa olla samoja
 	
+	//testx
 
 	static boolean hasNegativeValues = false;
 	static boolean hasRepeatingValuesInGrid = false;
