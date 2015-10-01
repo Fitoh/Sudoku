@@ -7,7 +7,6 @@ public class SudokuVerifier {
 	boolean hasRepeatingValuesInGrid = false;
 	boolean hasRepeatingValuesInRow = false;
 	boolean hasRepeatingValuesInColumn = false;
-	int returnValue;
 	public int verify(String candidateSolution) {
 	
 		
@@ -19,7 +18,7 @@ public class SudokuVerifier {
 		
 		if (hasNegativeValues == true){
 			returnValue = -1;
-			return returnValue;
+			return -1;
 		}
 		
 		if (hasRepeatingValuesInGrid == true){
