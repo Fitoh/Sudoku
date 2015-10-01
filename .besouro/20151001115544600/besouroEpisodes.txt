@@ -246,3 +246,12 @@
 1443693615661 refactoring 2A 24 true
 1443693620443 regression 1 1 true
 1443694186650 production 1 561 false
+1443694381021 production 1 184 false
+1443694411765 refactoring 3 23 true
+1443694411766 refactoring 3 23 true
+1443694411767 refactoring 2B 23 true
+1443694411768 refactoring 3 23 true
+1443694411769 refactoring 1B 23 true
+1443694411770 refactoring 2B 23 true
+1443694411771 refactoring 2B 23 true
+1443694411772 regression 1 23 true
