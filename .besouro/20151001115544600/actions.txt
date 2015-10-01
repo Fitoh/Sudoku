@@ -270,3 +270,6 @@ UnitTestSessionAction 1443693545008 TestSudokuVerifier OK
 RefactoringAction 1443693590903 SudokuVerifier.java REMOVE isCorrect FIELD
 EditAction 1443693600954 SudokuVerifier.java 780 1 7 0
 EditAction 1443693608024 SudokuVerifier.java 732 1 6 0
+UnitTestCaseAction 1443693615661 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443693615661 TestSudokuVerifier OK
+EditAction 1443693618826 TestSudokuVerifier.java 394 1 4 0
