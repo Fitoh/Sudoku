@@ -334,3 +334,8 @@ RefactoringAction 1443695191382 SudokuVerifier.java RENAME numberset=>Set number
 CompilationAction 1443695192885 SudokuVerifier.java
 CompilationAction 1443695193055 SudokuVerifier.java
 EditAction 1443695203813 SudokuVerifier.java 1101 1 8 0
+CompilationAction 1443695204085 SudokuVerifier.java
+CompilationAction 1443695210494 SudokuVerifier.java
+CompilationAction 1443695210659 SudokuVerifier.java
+CompilationAction 1443695219008 SudokuVerifier.java
+EditAction 1443695243376 SudokuVerifier.java 1145 1 8 0
