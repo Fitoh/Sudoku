@@ -10,6 +10,9 @@ public class SudokuVerifier {
 	static boolean hasRepeatingValuesInColumn = false;
 	public static int verify(String candidateSolution) {
 		
+		candidateSolution.equals(2);
+		
+		
 		
 		if (isCorrect == true){
 			return 0;
