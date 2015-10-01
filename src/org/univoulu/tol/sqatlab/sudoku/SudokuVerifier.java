@@ -44,19 +44,19 @@ public class SudokuVerifier {
 		if (myList.subList(45, 54).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
-		if (myList.subList(54, 64).containsAll(numbersSet) == true){
+		if (myList.subList(54, 63).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
-		if (myList.subList(64, 73).containsAll(numbersSet) == true){
+		if (myList.subList(63, 72).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
-		if (myList.subList(73, 82).containsAll(numbersSet) == true){
+		if (myList.subList(72, 81).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
 		
 		System.out.println(myList);
 		System.out.println(myList.subList(0, 9));
-		System.out.println(myList.subList(73, 82));
+		System.out.println(myList.subList(72, 81));
 		
 		
 		
