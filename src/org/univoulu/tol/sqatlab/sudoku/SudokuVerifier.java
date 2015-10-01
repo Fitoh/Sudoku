@@ -25,7 +25,7 @@ public class SudokuVerifier {
 		//if (myList.subList(1, 5).containsAll(numbersSet) == true){
 			//System.out.println("TROLOLO");
 		//}
-		
+		System.out.println(myList);
 		System.out.println(myList.subList(0, 1));
 		//System.out.println(myList[1]); 
 		
