@@ -40,8 +40,8 @@ public class SudokuVerifier {
 		}
 		
 		System.out.println(myList);
-		System.out.println(myList.subList(0, 8));
-		System.out.println(myList.subList(10, 19));
+		System.out.println(myList.subList(0, 9));
+		System.out.println(myList.subList(9, 19));
 		
 		
 		
