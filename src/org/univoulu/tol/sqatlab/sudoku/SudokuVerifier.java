@@ -36,5 +36,6 @@ public class SudokuVerifier {
 			returnValue = -4;
 			return returnValue;
 		}
+		return 0;
 	}
 }
