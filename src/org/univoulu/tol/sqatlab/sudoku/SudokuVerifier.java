@@ -21,7 +21,7 @@ public class SudokuVerifier {
 			hasNegativeValues = true;
 		}
 		ArrayList<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split("")));
-		
+		myList.remove(0);
 		//if (myList.subList(1, 5).containsAll(numbersSet) == true){
 			//System.out.println("TROLOLO");
 		//}
