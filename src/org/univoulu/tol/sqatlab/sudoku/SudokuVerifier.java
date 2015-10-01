@@ -29,13 +29,13 @@ public class SudokuVerifier {
 		if (myList.subList(0, 9).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
-		if (myList.subList(10, 19).containsAll(numbersSet) == true){
+		if (myList.subList(9, 18).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
-		if (myList.subList(20, 29).containsAll(numbersSet) == true){
+		if (myList.subList(18, 27).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
-		if (myList.subList(30, 39).containsAll(numbersSet) == true){
+		if (myList.subList(27, 36).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
 		
