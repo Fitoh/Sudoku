@@ -1,5 +1,8 @@
 package org.univoulu.tol.sqatlab.sudoku;
 import static java.lang.System.out;
+
+
+
 public class SudokuVerifier {
 	
 	boolean isCorrect = false;

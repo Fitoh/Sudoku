@@ -75,3 +75,74 @@ CompilationAction 1443691396815 main.java
 CompilationAction 1443691396815 main.java
 CompilationAction 1443691396816 main.java
 EditAction 1443691545192 SudokuVerifier.java 800 1 8 0
+RefactoringAction 1443691574783 main.java ADD import java.lang.System.out IMPORT
+RefactoringAction 1443691579791 main.java RENAME import java.lang.System.out=>import Sudoku IMPORT
+RefactoringAction 1443691582299 main.java RENAME import Sudoku=>import SudokuVeri IMPORT
+RefactoringAction 1443691584307 main.java RENAME import SudokuVeri=>import SudokuVerifier.java IMPORT
+CompilationAction 1443691586756 main.java
+CompilationAction 1443691586756 main.java
+CompilationAction 1443691586756 main.java
+CompilationAction 1443691586757 main.java
+CompilationAction 1443691591274 main.java
+CompilationAction 1443691591274 main.java
+CompilationAction 1443691591275 main.java
+CompilationAction 1443691591275 main.java
+CompilationAction 1443691591422 main.java
+CompilationAction 1443691591422 main.java
+CompilationAction 1443691591422 main.java
+CompilationAction 1443691591423 main.java
+RefactoringAction 1443691701890 main.java RENAME candidateSolution=><initializer /1> null
+CompilationAction 1443691708874 main.java
+CompilationAction 1443691708875 main.java
+CompilationAction 1443691708875 main.java
+CompilationAction 1443691709030 main.java
+CompilationAction 1443691709030 main.java
+CompilationAction 1443691709031 main.java
+CompilationAction 1443691709031 main.java
+CompilationAction 1443691719336 main.java
+CompilationAction 1443691719336 main.java
+CompilationAction 1443691719337 main.java
+CompilationAction 1443691719337 main.java
+CompilationAction 1443691719502 main.java
+CompilationAction 1443691719502 main.java
+CompilationAction 1443691719503 main.java
+CompilationAction 1443691719503 main.java
+CompilationAction 1443691719503 main.java
+CompilationAction 1443691719504 main.java
+CompilationAction 1443691762304 main.java
+CompilationAction 1443691762305 main.java
+CompilationAction 1443691762305 main.java
+CompilationAction 1443691762306 main.java
+CompilationAction 1443691762306 main.java
+CompilationAction 1443691762307 main.java
+CompilationAction 1443691762457 main.java
+CompilationAction 1443691762457 main.java
+CompilationAction 1443691762458 main.java
+CompilationAction 1443691762458 main.java
+CompilationAction 1443691762458 main.java
+CompilationAction 1443691762458 main.java
+CompilationAction 1443691762458 main.java
+CompilationAction 1443691762459 main.java
+CompilationAction 1443691762459 main.java
+CompilationAction 1443691787339 main.java
+CompilationAction 1443691787339 main.java
+CompilationAction 1443691787339 main.java
+CompilationAction 1443691787340 main.java
+CompilationAction 1443691787340 main.java
+CompilationAction 1443691787340 main.java
+CompilationAction 1443691787341 main.java
+CompilationAction 1443691787341 main.java
+CompilationAction 1443691787474 main.java
+CompilationAction 1443691787475 main.java
+CompilationAction 1443691787475 main.java
+CompilationAction 1443691787475 main.java
+CompilationAction 1443691787476 main.java
+CompilationAction 1443691787476 main.java
+CompilationAction 1443691787477 main.java
+CompilationAction 1443691787477 main.java
+CompilationAction 1443691787478 main.java
+RefactoringAction 1443691841801 main.java REMOVE main.java CLASS
+RefactoringAction 1443691909490 SudokuGame.java ADD SudokuGame.java CLASS
+FileOpenedAction 1443691909616 SudokuGame.java 76 0 0 0
+RefactoringAction 1443691914620 SudokuGame.java ADD static void main(String METHOD
+EditAction 1443691926372 SudokuGame.java 259 1 0 0
