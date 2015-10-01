@@ -21,8 +21,11 @@ public class SudokuVerifier {
 			hasNegativeValues = true;
 		}
 		
+		//sets the canditateSolution to arraylist and removes the first empty value
 		ArrayList<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split("")));
 		myList.remove(0);
+		
+		
 		if (myList.subList(0, 9).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
