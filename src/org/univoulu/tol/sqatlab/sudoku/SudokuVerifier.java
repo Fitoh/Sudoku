@@ -1,7 +1,6 @@
 package org.univoulu.tol.sqatlab.sudoku;
 import static java.lang.System.out;
 
-
 public class SudokuVerifier {
 	
 	boolean isCorrect = false;
@@ -9,7 +8,7 @@ public class SudokuVerifier {
 	boolean hasRepeatingValuesInGrid = false;
 	boolean hasRepeatingValuesInRow = false;
 	boolean hasRepeatingValuesInColumn = false;
-	public static int verify(String candidateSolution) {
+	public int verify(String) {
 	
 		String[] ary = candidateSolution.split("");
 		out.println("print something");
