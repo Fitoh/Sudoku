@@ -13,9 +13,6 @@ public class SudokuVerifier {
 		if (candidateSolution.contains("-")){
 			hasNegativeValues = true;
 		}
-		if (candidateSolution.contains("-")){
-
-		}
 		
 		
 		if (hasNegativeValues == true){
