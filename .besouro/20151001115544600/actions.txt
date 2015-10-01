@@ -305,3 +305,32 @@ UnitTestSessionAction 1443694411765 TestSudokuVerifier OK
 EditAction 1443694451867 SudokuVerifier.java 883 1 8 0
 CompilationAction 1443694451976 SudokuVerifier.java
 EditAction 1443694475473 SudokuVerifier.java 883 1 8 0
+CompilationAction 1443694475580 SudokuVerifier.java
+CompilationAction 1443694475581 SudokuVerifier.java
+CompilationAction 1443694478338 SudokuVerifier.java
+CompilationAction 1443694478339 SudokuVerifier.java
+CompilationAction 1443694478492 SudokuVerifier.java
+CompilationAction 1443694490131 SudokuVerifier.java
+CompilationAction 1443694490290 SudokuVerifier.java
+CompilationAction 1443694501254 SudokuVerifier.java
+CompilationAction 1443694501417 SudokuVerifier.java
+RefactoringAction 1443694523372 SudokuVerifier.java ADD import java.lang.reflect.Array IMPORT
+RefactoringAction 1443694525866 SudokuVerifier.java REMOVE import java.lang.reflect.Array IMPORT
+CompilationAction 1443694597994 SudokuVerifier.java
+CompilationAction 1443694598152 SudokuVerifier.java
+CompilationAction 1443694891015 SudokuVerifier.java
+CompilationAction 1443694891169 SudokuVerifier.java
+RefactoringAction 1443695064100 SudokuVerifier.java ADD String numbers FIELD
+CompilationAction 1443695121006 SudokuVerifier.java
+CompilationAction 1443695121175 SudokuVerifier.java
+RefactoringAction 1443695136257 SudokuVerifier.java ADD Set set FIELD
+RefactoringAction 1443695144558 SudokuVerifier.java ADD import java.util.HashSet IMPORT
+RefactoringAction 1443695155257 SudokuVerifier.java ADD import java.util.Set IMPORT
+CompilationAction 1443695173598 SudokuVerifier.java
+CompilationAction 1443695173766 SudokuVerifier.java
+RefactoringAction 1443695183851 SudokuVerifier.java RENAME set=>Set et FIELD
+RefactoringAction 1443695190367 SudokuVerifier.java RENAME et=>Set numberset FIELD
+RefactoringAction 1443695191382 SudokuVerifier.java RENAME numberset=>Set numbersSet FIELD
+CompilationAction 1443695192885 SudokuVerifier.java
+CompilationAction 1443695193055 SudokuVerifier.java
+EditAction 1443695203813 SudokuVerifier.java 1101 1 8 0
