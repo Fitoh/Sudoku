@@ -52,3 +52,5 @@ CompilationAction 1443690500515 SudokuVerifier.java
 EditAction 1443690540190 SudokuVerifier.java 690 1 0 0
 CompilationAction 1443690540440 SudokuVerifier.java
 EditAction 1443690543861 SudokuVerifier.java 691 1 6 0
+RefactoringAction 1443691173832 SudokuVerifier.java ADD import java.lang.System.out IMPORT
+EditAction 1443691187122 SudokuVerifier.java 800 1 8 0
