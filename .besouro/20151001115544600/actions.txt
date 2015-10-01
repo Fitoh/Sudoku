@@ -54,3 +54,8 @@ CompilationAction 1443690540440 SudokuVerifier.java
 EditAction 1443690543861 SudokuVerifier.java 691 1 6 0
 RefactoringAction 1443691173832 SudokuVerifier.java ADD import java.lang.System.out IMPORT
 EditAction 1443691187122 SudokuVerifier.java 800 1 8 0
+RefactoringAction 1443691223935 main.java ADD main.java CLASS
+FileOpenedAction 1443691224101 main.java 70 0 0 0
+RefactoringAction 1443691256690 main.java ADD int candidateSolution123456789912345678891234567789123456678912345567891234456789123345678912234567891 FIELD
+RefactoringAction 1443691260697 main.java RENAME candidateSolution123456789912345678891234567789123456678912345567891234456789123345678912234567891=>int candidateSolution FIELD
+EditAction 1443691274543 main.java 179 0 0 0
