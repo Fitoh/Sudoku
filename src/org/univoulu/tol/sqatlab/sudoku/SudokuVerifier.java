@@ -3,7 +3,7 @@ import static java.lang.System.out;
 
 public class SudokuVerifier {
 	
-	static boolean isCorrect = false;
+
 	static boolean hasNegativeValues = false;
 	static boolean hasRepeatingValuesInGrid = false;
 	static boolean hasRepeatingValuesInRow = false;
@@ -11,14 +11,12 @@ public class SudokuVerifier {
 	public static int verify(String candidateSolution) {
 		
 		if (candidateSolution.contains("-")){
-			isCorrect = true;
+			hasNegativeValues = true;
+		}
+		if (candidateSolution.contains("-")){
+
 		}
 		
-		
-		
-		if (isCorrect == true){
-			return 0;
-		}
 		
 		if (hasNegativeValues == true){
 			return -1;
@@ -35,6 +33,6 @@ public class SudokuVerifier {
 		if (hasRepeatingValuesInColumn == true){
 			return -4;
 		}
-		return 1; //something went wrong
+		return 0;
 	}
 }
