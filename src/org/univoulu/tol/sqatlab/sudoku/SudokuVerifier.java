@@ -20,14 +20,17 @@ public class SudokuVerifier {
 		if (candidateSolution.contains("-")){
 			hasNegativeValues = true;
 		}
+		
 		ArrayList<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split("")));
 		myList.remove(0);
-		if (myList.subList(10, 19).containsAll(numbersSet) == true){
-			System.out.println("TROLOLO");
+		if (myList.subList(0, 9).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
 		}
 		System.out.println(myList);
 		System.out.println(myList.subList(0, 9));
 		System.out.println(myList.subList(10, 19));
+		
+		
 		
 		if (hasNegativeValues == true){
 			return -1;
