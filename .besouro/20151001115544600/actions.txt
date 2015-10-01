@@ -33,3 +33,5 @@ RefactoringAction 1443690170703 SudokuVerifier.java RENAME hasRepeatingValuesIn=
 CompilationAction 1443690201290 SudokuVerifier.java
 CompilationAction 1443690201425 SudokuVerifier.java
 EditAction 1443690212303 SudokuVerifier.java 642 1 5 0
+CompilationAction 1443690212540 SudokuVerifier.java
+EditAction 1443690229729 SudokuVerifier.java 654 1 5 0
