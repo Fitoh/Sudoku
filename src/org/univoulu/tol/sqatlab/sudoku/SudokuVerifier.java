@@ -12,7 +12,7 @@ public class SudokuVerifier {
 	static boolean hasRepeatingValuesInGrid = false;
 	static boolean hasRepeatingValuesInRow = false;
 	static boolean hasRepeatingValuesInColumn = false;
-	static String numbers[] = {"1", "2", "x", "4", "5", "6", "7", "8", "9"};
+	static String numbers[] = {"1", "2", "3", "4", "5", "6", "7", "8", "9"};
 	static Set numbersSet = new HashSet(Arrays.asList(numbers));
 	
 	public static int verify(String candidateSolution) {
