@@ -29,6 +29,16 @@ public class SudokuVerifier {
 		if (myList.subList(0, 9).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
+		if (myList.subList(10, 19).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		if (myList.subList(20, 29).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		if (myList.subList(30, 39).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		
 		System.out.println(myList);
 		System.out.println(myList.subList(0, 9));
 		System.out.println(myList.subList(10, 19));
