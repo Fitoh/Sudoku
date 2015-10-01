@@ -22,7 +22,7 @@ public class SudokuVerifier {
 		}
 		ArrayList<String> myList = new ArrayList<String>(Arrays.asList(candidateSolution.split("")));
 		myList.remove(0);
-		if (myList.subList(0, 1).containsAll(numbersSet) == true){
+		if (myList.subList(0, 2).containsAll(numbersSet) == true){
 			//System.out.println("TROLOLO");
 		}
 		System.out.println(myList);
