@@ -38,6 +38,21 @@ public class SudokuVerifier {
 		if (myList.subList(27, 36).containsAll(numbersSet) == true){
 			hasRepeatingValuesInRow = true;
 		}
+		if (myList.subList(36, 45).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		if (myList.subList(45, 54).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		if (myList.subList(54, 64).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		if (myList.subList(64, 73).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
+		if (myList.subList(73, 82).containsAll(numbersSet) == true){
+			hasRepeatingValuesInRow = true;
+		}
 		
 		System.out.println(myList);
 		System.out.println(myList.subList(0, 9));
