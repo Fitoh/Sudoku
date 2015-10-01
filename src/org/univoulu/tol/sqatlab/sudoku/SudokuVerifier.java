@@ -14,6 +14,7 @@ public class SudokuVerifier {
 			hasNegativeValues = true;
 		}
 		
+		System.out.println(candidateSolution[1]); 
 		
 		if (hasNegativeValues == true){
 			return -1;
