@@ -56,7 +56,7 @@ public class SudokuVerifier {
 		
 		System.out.println(myList);
 		System.out.println(myList.subList(0, 9));
-		System.out.println(myList.subList(9, 18));
+		System.out.println(myList.subList(73, 82));
 		
 		
 		
