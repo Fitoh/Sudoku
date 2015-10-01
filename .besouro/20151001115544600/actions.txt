@@ -167,3 +167,12 @@ CompilationAction 1443692036538 SudokuGame.java
 CompilationAction 1443692036539 SudokuGame.java
 RefactoringAction 1443692233897 SudokuGame.java REMOVE SudokuGame.java CLASS
 EditAction 1443692286206 TestSudokuVerifier.java 349 1 2 0
+CompilationAction 1443692286453 TestSudokuVerifier.java
+CompilationAction 1443692294330 TestSudokuVerifier.java
+CompilationAction 1443692294492 TestSudokuVerifier.java
+CompilationAction 1443692304070 SudokuVerifier.java
+CompilationAction 1443692304070 SudokuVerifier.java
+CompilationAction 1443692304070 SudokuVerifier.java
+CompilationAction 1443692304070 SudokuVerifier.java
+CompilationAction 1443692304071 SudokuVerifier.java
+EditAction 1443692350000 TestSudokuVerifier.java 366 1 3 0
