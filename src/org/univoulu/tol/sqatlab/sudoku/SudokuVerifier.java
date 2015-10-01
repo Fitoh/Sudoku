@@ -10,7 +10,7 @@ public class SudokuVerifier {
 	static boolean hasRepeatingValuesInColumn = false;
 	public static int verify(String candidateSolution) {
 		
-		if (candidateSolution.contains("12345647")){
+		if (candidateSolution.contains("1")){
 			System.out.println("TROLOLOLOLOO");
 		}
 		
