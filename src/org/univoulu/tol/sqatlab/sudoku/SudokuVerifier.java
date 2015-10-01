@@ -11,7 +11,7 @@ public class SudokuVerifier {
 	public static int verify(String candidateSolution) {
 		
 		if (candidateSolution.contains("-")){
-			System.out.println("TROLOLOLOLOO");
+			isCorrect = true;
 		}
 		
 		
