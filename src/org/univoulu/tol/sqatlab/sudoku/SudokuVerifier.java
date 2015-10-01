@@ -13,7 +13,8 @@ public class SudokuVerifier {
 		
 		
 		if (isCorrect == true){
-			return 0;
+			returnValue = 0;
+			return returnValue;
 		}
 		
 		if (hasNegativeValues == true){
